@@ -2,13 +2,7 @@
 
 ---
 
-# Sponser Levels
-
-<style>
-td {
-  text-align: center;
-}
-</style>
+###### Sponser Levels
 
 Perk                     | Silver _$500_ | Gold _$1,000_ | Platinum _$2,500_ | Diamond _$5,000_
 :----------------------- | :------------ | :------------ | :---------------- | :---------------
