@@ -3,3 +3,7 @@
 ---
 
 # Sponser Levels
+
+|simple|
+|---|
+|table|
